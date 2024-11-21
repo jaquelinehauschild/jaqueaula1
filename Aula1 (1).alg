@@ -1,14 +1,14 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 19/02/2017
-// Seção de Declarações
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
    msg: Caracter
 inicio
-// Seção de Comandos
-   msg <- "Olá, Mundo"
+// SeÃ§Ã£o de Comandos
+   msg <- "OlÃ¡, Mundo"
    Escreval(msg)
-   msg <- "Me Livrei da Maldição!"
+   msg <- "Me Livrei da MaldiÃ§Ã£o!"
    Escreva(msg)
 fimalgoritmo
